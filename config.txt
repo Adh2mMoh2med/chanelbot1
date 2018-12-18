@@ -1,6 +1,6 @@
-﻿token=NTIwMzgwMjYyNDM0MDc4NzI2.DutBdA.wUguNyknqdI7BTJvYpp2415bM0Y
+token=NTIwMzc4MTgzNjE5NzA2ODgw.DvnKFw.u1GXB7TyG8FSUy5eEF-qEkwTAbo
+prefix=1
+game=Chanel Music | 1
 owner=502748478267719681
-prefix=4
-game=Chanel.Play | 4
 stayinchannel=true
 songinstatus=false
